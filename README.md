@@ -1,4 +1,4 @@
-# AutoSiakad
+# AutoSiakad (Only Work in PC)
 
 For Automatic Installation :
 
