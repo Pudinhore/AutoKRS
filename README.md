@@ -3,7 +3,7 @@
 For Automatic Installation :
 
 Clone this repo with git clone <br>
-cd AutoKRS<br>
+cd AutoKRS-master<br>
 pip install -r requirements.txt<br><br>
 or<br><br>
 pip3 install -r requirements.txt<br>
